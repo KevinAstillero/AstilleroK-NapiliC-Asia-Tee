@@ -1,4 +1,6 @@
-write this command on your cmd or vscode terminal to run the code
+This vue app is an app that calculates the BMI of the user. V-if condition was used in the construction of the app.
+
+Write the command below on your cmd or vscode terminal to run the code
 
 "npm run serve"
 
